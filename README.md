@@ -33,3 +33,6 @@ transpose, determinant, and inverse using **Gauss-Jordan elimination**.
 ## ⭐ Author
 
 Subhalaxmi Mishra
+
+
+![image alt](https://github.com/mishrasubhalaxmi575-byte/Matrix-Calculator---C/blob/afc1d17e1aadeb450eac18a094edfbc1f7e23af2/output.c.png)
