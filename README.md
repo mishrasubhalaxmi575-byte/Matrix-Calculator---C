@@ -177,5 +177,8 @@ This project is open-source. You may modify and use it freely.
 
 This project is designed to be *unique, educational, and visually informative*. Perfect for GitHub portfolios and academic submissions.
 
+
+![image alt](https://github.com/mishrasubhalaxmi575-byte/Matrix-Calculator---C/blob/9b1262e9b2031735ba22d92244d65983af174841/output%20image.jpg)
+
 ---
 
