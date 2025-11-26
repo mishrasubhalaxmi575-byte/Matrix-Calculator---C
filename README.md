@@ -146,8 +146,6 @@ matrix_calc.exe
 4. Add this line to README:
 
 
-![Program Output](output.png)
-
 
 ---
 
